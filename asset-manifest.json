@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.c886b2c8.css",
+    "main.js": "/portfolio/static/js/main.2d9362a1.js",
+    "static/media/Nagarjun.jpg": "/portfolio/static/media/Nagarjun.2017ecba6b8ce0222040.jpg",
+    "static/media/Nagarjun-1.jpg": "/portfolio/static/media/Nagarjun-1.afd5cbb2a7de4ac25b37.jpg",
+    "static/media/NagarjunMallesh_SDE_Ver3.pdf": "/portfolio/static/media/NagarjunMallesh_SDE_Ver3.4b046b2f037a76bd37f8.pdf",
+    "index.html": "/portfolio/index.html",
+    "main.c886b2c8.css.map": "/portfolio/static/css/main.c886b2c8.css.map",
+    "main.2d9362a1.js.map": "/portfolio/static/js/main.2d9362a1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c886b2c8.css",
+    "static/js/main.2d9362a1.js"
+  ]
+}
