@@ -6,10 +6,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### Build the Docker Image
 
-docker build -t personal-portfolio .
+The Docker Image can be built using the below command 
+-   docker build -t personal-portfolio .
 
 ### Running the application
+Soon after the docker image is built, you can run the docker image using the below mentioned command
+-   docker run -d -p 3000:3000 personal-portfolio
 
-docker run -d -p 3000:3000 personal-portfolio
-
-### Open your web browser and navigate to http://localhost:3000.
+### Access the application
+To access the application navigate to we browser and enter the following URL => http://localhost:3000.
